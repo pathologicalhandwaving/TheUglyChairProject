@@ -1,0 +1,7 @@
+#+TITLE: The Ugly Chair Project
+#+DATE_CREATED: 2018-10-12
+#+GITHUB_REPO: https://github.com/pathologicalhandwaving/theuglychairproject
+
+
+* The Ugly Chair Project
+
